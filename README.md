@@ -1,2 +1,2 @@
 # roblox.ovh
-# piotrgryf.fun/discord
+# piotrgryf.fun
