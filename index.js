@@ -53,7 +53,7 @@ const VIDEOS = [
   'media/videos/bron.mov',
   'media/videos/luznyy.mp4',
   'media/videos/party_girl_1.mov',
-  'media/videos/rotel.mp4',
+  'media/videos/rotel.mp4'
 ]
 
 const FILE_DOWNLOADS = [
@@ -66,18 +66,15 @@ const FILE_DOWNLOADS = [
   'media/images/plug.jpg',
   'media/images/roblox.jpg',
   'media/images/roblox2.jpg',
-  'media/images/sillykotek.jpg',
+  'media/images/sillykotek.jpg'
  ]
 
 const PHRASES = [
-  'hello my name is ptoszek, lol',
-  'birds are funny lalalalalalalallalala',
-  'wgl co u cb bo u mn dbr',
-  'knuuurrr eksplozja',
-  'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
-  'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
-  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
-  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
+  'swaaa swaaa',
+  'piotr gryf',
+  'aaaaaaaaaaaa',
+  'asbdber to spoko ziut',
+  'plug to spoko ziut'
 ]
 
 const LOGOUT_SITES = {
