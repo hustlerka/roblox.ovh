@@ -41,41 +41,33 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'jshop',
-  'ptoszek',
-  'ptak',
-  'kanarek',
-  'jaczup'
+  'guwno',
+  'sraka',
+  'roblox.ovh',
+  'swagg',
+  'piotrgryf'
 ]
 
 const VIDEOS = [
-  'media/videos/jaczup.mp4',
-  'media/videos/duck.mp4',
-  'media/videos/rickroll.mp4',
-  'media/videos/golomb.mp4',
-  'media/videos/mushbox.mp4',
-  'media/videos/clearmax.mp4',
-  'media/videos/freestrona.mp4',
-  'media/videos/ajhsdfhjasdbhfjasdfs.mp4',
-  'media/videos/v09044g40000cgr968jc77u1t2krb89g.mov',
-  'media/videos/intro.mp4',
-  'media/videos/szybkakaczka.mp4', // added by @dan64iel
-  'media/videos/kaczuszka.mp4', //added by @imzeme
-  'media/videos/gratulacje.mp4' //added by @GameShoot8050
+  'media/videos/20_lat.mp4',
+  'media/videos/bron.mov',
+  'media/videos/luznyy.mp4',
+  'media/videos/party_girl_1.mov',
+  'media/videos/rotel.mp4',
 ]
 
 const FILE_DOWNLOADS = [
-  'media/images/ptok.jpg',
-  'media/images/jaczup.jpg',
-  'media/images/jaczupme.jpg',
-  'media/images/ptoszek.jpg',
-  'media/images/ptakwspodniach.jpg',
-  'media/images/kichajacyptoszek.jpg',
-  'media/images/lubieptoszki.png',
-  'media/images/zimowyptoszek.jpeg', // added by @dan64iel
-  'media/images/zlyptok.jpeg', //added by @imzeme
-  'media/images/grubyptok.jpg' //added by @imzeme
-]
+  'media/images/eksplozja.jpg',
+  'media/images/eksplozjainna.jpg',
+  'media/images/elegancik.jpg',
+  'media/images/femboy.jpg',
+  'media/images/fiatpunto.jpg',
+  'media/images/innykotek.jpg',
+  'media/images/plug.jpg',
+  'media/images/roblox.jpg',
+  'media/images/roblox2.jpg',
+  'media/images/sillykotek.jpg',
+ ]
 
 const PHRASES = [
   'hello my name is ptoszek, lol',
