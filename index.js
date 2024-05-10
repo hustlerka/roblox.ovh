@@ -60,8 +60,6 @@ const FILE_DOWNLOADS = [
   'media/images/eksplozja.jpg',
   'media/images/eksplozjainna.jpg',
   'media/images/elegancik.jpg',
-  'media/images/femboy.jpg',
-  'media/images/fiatpunto.jpg',
   'media/images/innykotek.jpg',
   'media/images/plug.jpg',
   'media/images/roblox.jpg',
