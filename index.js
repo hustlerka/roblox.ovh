@@ -73,8 +73,8 @@ const FILE_DOWNLOADS = [
 
 const PHRASES = [
   'swaaa swaaa',
-  'piotr gryf',
-  'aaaaaaaaaaaa',
+  'piotrgryf.fun/discord',
+  'ozneeg to spoko ziut',
   'asbdber to spoko ziut',
   'plug to spoko ziut'
 ]
