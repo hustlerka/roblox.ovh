@@ -45,20 +45,29 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'guwno',
-  'sraka',
-  'roblox.ovh',
-  'swagg',
-  'piotrgryf'
+    'alexinio'
 ]
 
 const VIDEOS = [
-  'media/videos/luznyy.mp4',
-  'media/videos/party_girl_1.mov',
+  'alexinio/alexiniodzwinamorda.png',
+  'alexinio/alexinioromantyk.png',
+  'alexinio/alexiniorybaokularki.png',
+  'alexinio/alexiniostatek.png',
+  'alexinio/alexiniostopa',
+  'alexinio/alexiniowygral.png',
+  'alexinio/alexiniomlodyryba.png',
+  'alexinio/alexinionogi.png'
 ]
 
 const FILE_DOWNLOADS = [
-  'media/images/eksplozja.jpg',
+  'alexinio/alexiniodzwinamorda.png',
+  'alexinio/alexinioromantyk.png',
+  'alexinio/alexiniorybaokularki.png',
+  'alexinio/alexiniostatek.png',
+  'alexinio/alexiniostopa',
+  'alexinio/alexiniowygral.png',
+  'alexinio/alexiniomlodyryba.png',
+  'alexinio/alexinionogi.png'
  ]
 
 const PHRASES = [
