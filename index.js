@@ -53,30 +53,16 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'media/videos/20_lat.mp4',
-  'media/videos/bron.mov',
   'media/videos/luznyy.mp4',
   'media/videos/party_girl_1.mov',
-  'media/videos/rotel.mp4'
 ]
 
 const FILE_DOWNLOADS = [
   'media/images/eksplozja.jpg',
-  'media/images/eksplozjainna.jpg',
-  'media/images/elegancik.jpg',
-  'media/images/innykotek.jpg',
-  'media/images/plug.jpg',
-  'media/images/roblox.jpg',
-  'media/images/roblox2.jpg',
-  'media/images/sillykotek.jpg'
  ]
 
 const PHRASES = [
-  'swaaa swaaa',
-  'piotrgryf.fun/discord',
-  'ozneeg to spoko ziut',
-  'asbdber to spoko ziut',
-  'plug to spoko ziut'
+    'alexinio'
 ]
 
 const LOGOUT_SITES = {
