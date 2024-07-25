@@ -49,25 +49,25 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'alexinio/alexiniodzwinamorda.png',
-  'alexinio/alexinioromantyk.png',
-  'alexinio/alexiniorybaokularki.png',
-  'alexinio/alexiniostatek.png',
-  'alexinio/alexiniostopa',
-  'alexinio/alexiniowygral.png',
-  'alexinio/alexiniomlodyryba.png',
-  'alexinio/alexinionogi.png'
+  'media/alexinio/alexiniodzwinamorda.png',
+  'media/alexinio/alexinioromantyk.png',
+  'media/alexinio/alexiniorybaokularki.png',
+  'media/alexinio/alexiniostatek.png',
+  'media/alexinio/alexiniostopa',
+  'media/alexinio/alexiniowygral.png',
+  'media/alexinio/alexiniomlodyryba.png',
+  'media/alexinio/alexinionogi.png'
 ]
 
 const FILE_DOWNLOADS = [
-  'alexinio/alexiniodzwinamorda.png',
-  'alexinio/alexinioromantyk.png',
-  'alexinio/alexiniorybaokularki.png',
-  'alexinio/alexiniostatek.png',
-  'alexinio/alexiniostopa',
-  'alexinio/alexiniowygral.png',
-  'alexinio/alexiniomlodyryba.png',
-  'alexinio/alexinionogi.png'
+  'media/alexinio/alexiniodzwinamorda.png',
+  'media/alexinio/alexinioromantyk.png',
+  'media/alexinio/alexiniorybaokularki.png',
+  'media/alexinio/alexiniostatek.png',
+  'media/alexinio/alexiniostopa',
+  'media/alexinio/alexiniowygral.png',
+  'media/alexinio/alexiniomlodyryba.png',
+  'media/alexinio/alexinionogi.png'
  ]
 
 const PHRASES = [
