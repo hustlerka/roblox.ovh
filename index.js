@@ -1,10 +1,5 @@
 /*
-    piotrgryf.fun
-    piotrgryf.fun/discord
-    https://discord.gg/yvN6pzmv
-    kocham cie asbdber
-    plug tu byl
-    ozneeg to giga spoko ziomek
+    plug.
 */
 
 const SCREEN_WIDTH = window.screen.availWidth
